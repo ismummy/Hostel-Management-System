@@ -1,0 +1,4 @@
+# Hostel-Management-System
+Hostel Managemet System is a Java Application that automate the process of allocating room to student from the available hostel and managing student record
+
+Hostel Management System is a user-friendly computer-based system for managing hostel facilities in institutions. It has been designed to automate, manage and look after the overall processing of records of students residing in large hostels. It is capable of managing Enquiry details, Student Details, Payment Details etc. The developed system provides solution to manual hostel management problems and also provides information such as hostel information, hostel room information, and hostel accounts information. The software offers stability, cost-effectiveness and usability. It provides the most flexible and adaptable standards management system solutions for hostel. 
